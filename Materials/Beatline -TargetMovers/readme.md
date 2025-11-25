@@ -1,9 +1,9 @@
-# 3D Movers
+# Target Movers
 
 ![Thumbnail of the Beeatline - Mover wave material as it appears in MadMapper](./thumbnail.jpg)
 
 Aiming one oving heads (movers) at a target is hard. Especially when you are not at the venue and you can't afford Virtual stage software. Aiming multiple mmovers is even harder.
-This poor mans solution takes the guesswork out of it. Rather than setting the pan and tilt to aim at a presenter that isn't there right now, we can use geometry and calculate the pan and tilt angles.
+This poor mans solution takes the guesswork out of it. Rather than setting the pan and tilt to aim at a presenter that isn't there right now, we can use geometry and provide target data and let the computer cslculate the pan and tilt angles.
 
 Here we are assuming that the movers are all equally spaced along a line and are of identical capability. 
 By setting the 3D start and end point and the number of movers we defined where exactly they are in space. It doesn't matter what point you consider the origin 0,0,0
