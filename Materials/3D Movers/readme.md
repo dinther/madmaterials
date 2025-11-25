@@ -1,6 +1,6 @@
 # 3D Movers
 
-<img width="797" height="759" alt="image" src="https://github.com/user-attachments/assets/f093c31a-ad52-47fd-be1a-967f7f9bd33b" />
+![Thumbnail of the Beeatline - Mover wave material as it appears in MadMapper](./thumbnail.jpg)
 
 Aiming one oving heads (movers) at a target is hard. Especially when you are not at the venue and you can't afford Virtual stage software. Aiming multiple mmovers is even harder.
 This poor mans solution takes the guesswork out of it. Rather than setting the pan and tilt to aim at a presenter that isn't there right now, we can use geometry and calculate the pan and tilt angles.
